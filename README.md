@@ -68,8 +68,8 @@ A multi-page online bookstore front end built with **React + Vite**. It includes
 ### Installation
 
 ```bash
-git clone https://github.com/Ibadatgaad/Book-Store-website-with-React-js-.git
-cd Book-Store-website-with-React-js-
+git clone https://github.com/Ibadatgaad/Bookstore-Full-stack-online-store.git
+cd Bookstore-Full-stack-online-store
 npm install
 ```
 
